@@ -1,0 +1,8 @@
+{
+  "command": "python3 validate.py",
+  "tests_run": 8,
+  "failures": 0,
+  "errors": 0,
+  "successful": true,
+  "scope": "Tests rerun all nine real local pip installs, then check exact sink outcomes and containment."
+}
